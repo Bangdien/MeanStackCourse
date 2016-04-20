@@ -1,0 +1,1 @@
+Understanding more of Javascript and Mean stack.
